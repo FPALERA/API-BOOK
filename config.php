@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost';
 $db = 'gestion_livres';
-$user = 'root'; // Utilisateur par défaut de XAMPP
-$pass = ''; // Mot de passe par défaut de XAMPP
+$user = 'root'; // Utilisateur par défaut de la BD
+$pass = ''; // Mot de passe par défaut de la BD
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$db", $user, $pass);
