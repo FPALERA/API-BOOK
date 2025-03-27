@@ -63,3 +63,14 @@ delete.php : Permet de supprimer un livre de la base de données.
 
 
 Ces fichiers utilisent la connexion à la base de données définie dans le fichier connexion_db.php et gèrent les sessions utilisateur pour s'assurer que seuls les utilisateurs authentifiés peuvent accéder aux fonctionnalités de l'API.
+
+#### Obtenir un serveur ici
+<a href="https://www.digitalocean.com/?refcode=1ddbfbb00962&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
+
+#### CONTACTS
+<a href="https://wa.me/22658179319"><img src="https://static.whatsapp.net/rsrc.php/yZ/r/JvsnINJ2CZv.svg" alt="Whatsapp"/></a><br>
+<a href="https://t.me/FPALERA"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTabR5clmX2Zr-bKFnq8j1k1_JkJbr8JAdW3A&s" alt="Telegram" /></a>
+
+#### ```FPALERA PROFILE VIEWS 🧚```
+![Visitor Count](https://profile-counter.glitch.me/FPALERA/count.svg)
+
