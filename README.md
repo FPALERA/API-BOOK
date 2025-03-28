@@ -6,7 +6,7 @@ Cette API permet de gérer une base de données de livres. Elle offre des foncti
 ## Prérequis
 - PHP 7.4 ou supérieur
 - MySQL 5.7 ou supérieur
-- Accès à phpMyAdmin pour la gestion de la base de données
+- Accès à phpMyAdmin pour la gestion de la base de données ( enregistrer vos identifiants DB dans config/connexion_db.php )
 
 ## Endpoints
 
