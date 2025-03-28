@@ -2,7 +2,7 @@
 $host = 'localhost';
 $db = 'gestion_livres';
 $user = 'root'; // Utilisateur de la BD
-$pass = 'PALERA@2003'; // Mot de passe de la BD
+$pass = ''; // Mot de passe de la BD
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$db", $user, $pass);
